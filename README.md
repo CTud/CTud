@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @CTud
+-     Call me Chris!
+-     
+- 👀 I’m interested in new coding projects and learning more about creating
+-     interactive interfaces and data managers
+-     
+- 🌱 I’m currently learning how to code in java, python, and creating a public website.
+- 
+- 💞️ I’m looking to collaborate on creating web pages and new, fresh coding projects
+- 
+- 📫 How to reach me
+-     Email: tudela.vchristopher@gmail.com
+-     Phone: (986)-895-4993
